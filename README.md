@@ -38,13 +38,6 @@ This project visualizes HR data with focus on:
 
 ---
 
-## 📸 Dashboard Preview
-
-> 📷 **Power BI Dashboard Snapshot**  
-![Dashboard Screenshot](images/dashboard-screenshot.png)
-
----
-
 ## 🛠 Tools & Technologies
 
 - 🟡 **Power BI Desktop** – for visualizations  
